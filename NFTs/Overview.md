@@ -15,6 +15,8 @@
 - L
 - M
 - N
+    - Non-fungible Tokens
+        - NFTs are tokens on a blockchain that can represent ownership of unique items. Think "one-of-a-kind" items.
 - O
 - P
 - Q
